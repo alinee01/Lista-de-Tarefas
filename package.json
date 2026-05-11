@@ -1,0 +1,24 @@
+{
+  "name": "cozytasks",
+  "version": "1.0.0",
+  "description": "Esse projeto na verdade é o meu primeiro\r Na qual estou tentando desenvolver minhas habilidades práticas de tudo quanto tenho aprendido.\r Com a ajuda da IA, vou aprendendo os conceitos e irei aplica-los a medida do desenvolvimento do meu aprendizado.\r Com isso, espero que a partir desse projeto eu já desenvolva habilidades práticas para que assim\r eu possa desenvolver mais e mais em outros projetos maiores.     :))",
+  "main": "main.js",
+  "scripts": {
+  "start": "electron ."
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinee01/Lista-de-Tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alinee01/Lista-de-Tarefas/issues"
+  },
+  "homepage": "https://github.com/alinee01/Lista-de-Tarefas#readme",
+  "devDependencies": {
+    "electron": "^42.0.0"
+  }
+}
